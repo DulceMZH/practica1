@@ -1,0 +1,22 @@
+*{ /*Selector general para aplicar a todo*/
+    margin: 0; /*tamaño del margen en los 4 lados*/
+    padding: 5px; /*espacio entre el margen y el texto*/
+    background-color: #fdf1f2; /*color del fondo*/
+}
+
+h1{ /*Selector de tipo para palicar a una etiqueta*/
+    color: rgb(253, 130, 171); /*color de texto de h1*/
+    text-align: center; /*para centrar el texto*/
+}
+
+h2{color: #d97286; background-color: #ffd8dc;}
+
+strong{color: #fc637d;}
+
+em{color: #faa1b6;}
+
+p{
+    text-align: justify; /*para justificar el texto*/
+    text-indent: 30px; /*da un desplazamiento de la primera línea del texto*/
+    font-size: 20px; /*tamaño del texto*/
+}
